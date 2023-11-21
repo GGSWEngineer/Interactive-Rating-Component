@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/GGSWEngineer/Interactive-Rating-Component
+- Live Site URL: https://ggswengineer.github.io/Interactive-Rating-Component/
 
 ## My process
 
@@ -62,5 +62,5 @@ This was the first project where I had to use a substantial amount of Javascript
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@GGSWEngineer](https://www.frontendmentor.io/profile/GGSWEngineer)
+- LinkedIn - [Gerardo Garcia](www.linkedin.com/in/gerardo-garcia-19a794275)
